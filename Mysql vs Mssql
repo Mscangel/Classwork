@@ -1,0 +1,8 @@
+Mysql
+SELECT CHARACTER_LENGTH(string_data)
+FROM MscangelTestTable
+
+
+Mssql
+SELECT LEN(string_data)
+FROM MscangelTestTable
